@@ -1,1 +1,0 @@
-import"./index-CfG3UZPV.js";import{E as e}from"./el-message-box-V7E_D8vb.js";import"./el-input-D7PP-q2Z.js";import"./el-overlay-Bo_30KvR.js";const p={__name:"NoMobileAccessView",setup(r){return e.alert("请使用电脑端浏览器访问本程序！","错误",{type:"error"}).finally(()=>{window.close()}),(o,t)=>null}};export{p as default};
