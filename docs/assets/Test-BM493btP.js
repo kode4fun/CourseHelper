@@ -1,0 +1,1 @@
+import{r as s,k as t,l as o,a5 as n,f as r,p as l,q as c,a7 as i,al as u}from"./index-BUrPHLyf.js";const h={__name:"Test",setup(p){const e=s({name:"Tom",hobbies:["A","LAZY","BOY"]});function a(){e.hobbies=[],e.hobbies.push("hello")}return(b,m)=>(t(),o(i,null,[n(r(u),{onClick:a}),l("div",null,c(e.hobbies),1)],64))}};export{h as default};
