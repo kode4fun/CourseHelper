@@ -1,0 +1,1 @@
+import{U as t,w as a,G as o,H as n,C as r,A as c,a6 as l,I as i,aL as u}from"./index-uDMkNMzh.js";const h={__name:"Test",setup(b){const e=t({name:"Tom",hobbies:["A","LAZY","BOY"]});function s(){e.hobbies=[],e.hobbies.push("hello")}return(m,p)=>(a(),o(i,null,[n(r(u),{onClick:s}),c("div",null,l(e.hobbies),1)],64))}};export{h as default};
