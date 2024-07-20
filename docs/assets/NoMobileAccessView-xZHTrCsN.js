@@ -1,1 +1,0 @@
-import{aS as e}from"./index-KwYRxU2K.js";const t={__name:"NoMobileAccessView",setup(r){return e.alert("请使用电脑端浏览器访问本程序！","错误",{type:"error"}).finally(()=>{window.close()}),(o,s)=>null}};export{t as default};
